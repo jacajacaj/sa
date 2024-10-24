@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kabum.com.br	TRUE	/	FALSE	1999999999	isMobile	false
+www.kabum.com.br	TRUE	/	FALSE	1999999999	isMobileDevice	false
+www.kabum.com.br	TRUE	/	FALSE	1999999999	storeCode	001
+
